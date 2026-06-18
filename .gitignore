@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+*.local
+*.log
+*.tsbuildinfo
+
+luoyang-site-dist.zip
+vite.config.js
+vite.config.d.ts
