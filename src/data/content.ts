@@ -41,7 +41,7 @@ export const content = {
     switchLanguage: '英文',
     logoText: '一高',
     schoolName: '洛阳市第一高级中学',
-    schoolNameEn: '公办普通高中',
+    schoolNameEn: '公办省立高中',
     nav: {
       home: '首页',
       about: '学校概况',
@@ -59,7 +59,7 @@ export const content = {
     home: {
       title: '洛阳市第一高级中学',
       subtitle: '立足中国基础教育，培养面向未来的国际化人才',
-      badge: '公办普通高中',
+      badge: '公办省立高中',
       panelKicker: '校园关注',
       panelTitle: '学习、成长与稳健发展',
       profileLabel: '学校概览',
@@ -327,7 +327,7 @@ export const content = {
       subtitle: '欢迎就学校信息、课程咨询和招生安排进行联系',
       detailsTitle: '学校信息',
       name: '洛阳市第一高级中学',
-      nameEn: '公办普通高中',
+      nameEn: '公办省立高中',
       addressLabel: '地址',
       telLabel: '电话',
       emailLabel: '邮箱',
